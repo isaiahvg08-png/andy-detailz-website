@@ -54,4 +54,4 @@ form.addEventListener('submit', function (e) {
   formNote.textContent = 'Thanks! Your request has been received — we\'ll confirm shortly.';
   formNote.classList.add('success');
   form.reset();
-}
+});
